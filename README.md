@@ -1,1 +1,2 @@
-# Library_Mgmt_System_JAVA
+# A Simple Library Management System
+Made with Java.
